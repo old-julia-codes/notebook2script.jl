@@ -1,0 +1,7 @@
+name = "notebook2script"
+uuid = "ce9ebe37-6887-4895-8492-984d009ea31a"
+authors = ["SubhadityaMukherjee <msubhaditya@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
